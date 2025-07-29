@@ -19,5 +19,22 @@ Built using natural language processing (NLP) and integrated with a custom medic
 Empathetic and context-aware interactions.
 
 interactive ui 
-Homepage
+HOME PAGE
+
+<img width="273" height="478" alt="Screenshot 2025-07-29 at 11 15 16 PM" src="https://github.com/user-attachments/assets/b7010e2e-5ba1-43dc-8c6c-8f104013b914" />
+
+
+LUNGS SCAN PAGE
+
+<img width="269" height="470" alt="Screenshot 2025-07-29 at 11 15 44 PM" src="https://github.com/user-attachments/assets/71606825-3868-4919-983e-d3c547ab0d42" />
+
+
+
+ABOUT PAGE
+
+<img width="264" height="470" alt="Screenshot 2025-07-29 at 11 16 22 PM" src="https://github.com/user-attachments/assets/54271e96-c680-4f30-b196-a9093f2c688f" />
+
+
+
+
 
